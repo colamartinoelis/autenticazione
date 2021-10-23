@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283822176879",
+    "project_id": "registra-60e02",
+    "storage_bucket": "registra-60e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283822176879:android:c37c94de8c571c2f636b9a",
+        "android_client_info": {
+          "package_name": "com.example.autentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283822176879-cg0vlqc5lpr0b87laggsu4grsk7me9r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3V60ELH5ARHZGApgVi7wQto_EtvX551Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283822176879-cg0vlqc5lpr0b87laggsu4grsk7me9r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
